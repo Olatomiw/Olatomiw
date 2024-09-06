@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/officialtmmy" target="blank"><img src="https://img.shields.io/twitter/follow/officialtmmy?logo=twitter&style=for-the-badge" alt="officialtmmy" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **JAVA SPRINGBOOT**
 
-- 📫 How to reach me **towolawiridwan@gmail.com**
+- 📫 How to reach me **DEVTOMIWA@GMAIL.COM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
